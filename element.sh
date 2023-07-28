@@ -57,8 +57,3 @@ fi
 
 #if not in the symbol list, test the argument - is it in the name list?
 #if yest, print the message using the name as key joining props and elements tables
-
-
-
-
-
